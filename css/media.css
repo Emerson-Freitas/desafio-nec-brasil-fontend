@@ -1,0 +1,13 @@
+@media screen and (max-width:760px){
+    form{
+        width: 80vw;
+    }
+
+    input{
+        width: 65vw;
+    }
+
+    #botao{
+        width: 55vw;
+    }
+}
